@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    Padding="0, 20, 0, 0"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MotivateMe.OptionsPage">
+    <StackLayout
+        Orientation="Vertical"
+        Padding="40"
+        Spacing="40"
+        HorizontalOptions="Center"
+        >
+    <StackLayout
+        Orientation="Horizontal"
+        Padding="20"
+        Spacing="20"
+        VerticalOptions="StartAndExpand"
+        HorizontalOptions="Center">
+        <StackLayout>
+            <Button BackgroundColor="YellowGreen" ImageSource="todolist" WidthRequest="80" HeightRequest="80" Clicked="todo_Clicked"/>
+            <Label Text="Do it" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+        <StackLayout>
+            <Button BackgroundColor="DeepSkyBlue" ImageSource="learn" WidthRequest="80" HeightRequest="80" Clicked="learn_Clicked"/>
+            <Label Text="Learn it" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+                <StackLayout>
+            <Button BackgroundColor="Red" ImageSource="exercise" WidthRequest="80" HeightRequest="80" Clicked="exercise_Clicked"/>
+            <Label Text="Move it" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+  </StackLayout>
+<Button Text="Go Back" Clicked="Back_Clicked" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="MediumAquamarine"/>
+
+    </StackLayout>
+    </ContentPage>
+
+
+ 
+
+

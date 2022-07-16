@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KK+9ky2Hnro35o5wtsTbHuE3xX1UTcFewfoCWoya+fBE24q03Dq9szG4js/Q19iQZs0iBHXBvWJKsivtQH4/gg==",
+  "success": true,
+  "projectFilePath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/sidany/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/sidany/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/sidany/.nuget/packages/xamarin.forms/5.0.0.2478/xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

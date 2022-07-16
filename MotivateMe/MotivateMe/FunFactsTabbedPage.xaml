@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage 
+    xmlns:local="clr-namespace:MotivateMe"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotivateMe.FunFactsTabbedPage">
+
+    <!--Pages can be added as references or inline-->
+    <NavigationPage Title="Do it" IconImageSource="todolist">
+        <x:Arguments>
+            <local:TodoListViewPage />
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Learn it" IconImageSource="learn">
+        <x:Arguments>
+            <local:RandomFacts />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Move It" IconImageSource="exercise">
+        <x:Arguments>
+            <local:ExercisePage />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>
