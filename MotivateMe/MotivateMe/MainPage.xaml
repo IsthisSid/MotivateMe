@@ -10,7 +10,9 @@
         HorizontalOptions="Center" VerticalOptions="Center">
         <Image Source="motivate" Aspect="AspectFit"/>
         <Label Text="Motivate Me" HorizontalOptions="Center" FontSize="Large" />
-        <Button Text="* GO *" Clicked="DoIt_Clicked" BackgroundColor="DeepSkyBlue" />
+        <StackLayout>
+            <ImageButton Source="gobutton" Clicked="DoIt_Clicked" Aspect="AspectFill" BorderColor="Blue" />
+        </StackLayout>
 
     </StackLayout>
 

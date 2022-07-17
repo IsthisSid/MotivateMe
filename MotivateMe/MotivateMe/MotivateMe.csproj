@@ -18,6 +18,11 @@
     <None Remove="Images\" />
     <None Remove="Images\pinkswirl.png" />
     <None Remove="Images\motivate.png" />
+    <None Remove="Images\exercise.png" />
+    <None Remove="Images\bluebutton.png" />
+    <None Remove="Images\gobutton.png" />
+    <None Remove="Images\learn.png" />
+    <None Remove="Images\todolist.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />
@@ -25,5 +30,10 @@
   <ItemGroup>
     <EmbeddedResource Include="Images\pinkswirl.png" />
     <EmbeddedResource Include="Images\motivate.png" />
+    <EmbeddedResource Include="Images\exercise.png" />
+    <EmbeddedResource Include="Images\bluebutton.png" />
+    <EmbeddedResource Include="Images\gobutton.png" />
+    <EmbeddedResource Include="Images\learn.png" />
+    <EmbeddedResource Include="Images\todolist.png" />
   </ItemGroup>
 </Project>

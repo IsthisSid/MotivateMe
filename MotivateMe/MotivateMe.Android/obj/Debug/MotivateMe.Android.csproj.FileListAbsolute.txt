@@ -651,3 +651,5 @@
 /Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/Debug/res/drawable/todolist.png
 /Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/Debug/res/drawable/learn.png
 /Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/Debug/res/drawable/motivate.png
+/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/Debug/res/drawable/bluebutton.png
+/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/Debug/res/drawable/gobutton.png
