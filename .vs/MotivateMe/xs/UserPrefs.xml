@@ -4,30 +4,29 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MotivateMe/MotivateMe/FunFactsTabbedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MotivateMe/MotivateMe/ExercisePage.xaml.cs">
     <Files>
       <File FileName="MotivateMe/MotivateMe.iOS/Main.cs" Line="17" Column="1" IsPinned="True" />
-      <File FileName="MotivateMe/MotivateMe/OptionsPage.xaml.cs" Line="36" Column="6" IsPinned="True" />
-      <File FileName="MotivateMe/MotivateMe/MainPage.xaml" Line="11" Column="9" />
-      <File FileName="MotivateMe/MotivateMe/OptionsPage.xaml" Line="28" Column="128" />
-      <File FileName="MotivateMe/MotivateMe/App.xaml.cs" Line="20" Column="10" />
-      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml" Line="14" Column="59" />
-      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml.cs" Line="1" Column="1" />
-      <File FileName="MotivateMe/MotivateMe/FunFactsTabbedPage.xaml" Line="10" Column="22" />
-      <File FileName="MotivateMe/MotivateMe/FunFactsTabbedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MotivateMe/MotivateMe/MainPage.xaml" Line="13" Column="1" />
+      <File FileName="MotivateMe/MotivateMe/MainPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml.cs" Line="35" Column="10" />
+      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml" Line="3" Column="5" />
+      <File FileName="MotivateMe/MotivateMe/RandomFacts.xaml" Line="1" Column="1" />
+      <File FileName="MotivateMe/MotivateMe/RandomFacts.xaml.cs" Line="30" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MotivateMe" expanded="True" selected="True">
             <Node name="MotivateMe" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="ExercisePage.xaml" expanded="True" />
-              <Node name="FunFactsTabbedPage.xaml" expanded="True" />
-              <Node name="OptionsPage.xaml" expanded="True" />
-              <Node name="RandomFacts.xaml" expanded="True" />
+              <Node name="Images" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
-            <Node name="MotivateMe.iOS" expanded="True" />
+            <Node name="MotivateMe.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
