@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj": {}
+    "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj": {}
   },
   "projects": {
-    "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj": {
+    "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
+        "projectUniqueName": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
         "projectName": "MotivateMe.Android",
-        "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
+        "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
         "packagesPath": "/Users/sidany/.nuget/packages/",
-        "outputPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/obj/",
+        "outputPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
-                "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
+              "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
+                "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
+    "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
+        "projectUniqueName": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
         "projectName": "MotivateMe",
-        "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
+        "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
         "packagesPath": "/Users/sidany/.nuget/packages/",
-        "outputPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/obj/",
+        "outputPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sidany/.config/NuGet/NuGet.Config"

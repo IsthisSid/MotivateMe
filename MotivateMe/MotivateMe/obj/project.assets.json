@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
+      "projectUniqueName": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
       "projectName": "MotivateMe",
-      "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
+      "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
       "packagesPath": "/Users/sidany/.nuget/packages/",
-      "outputPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/obj/",
+      "outputPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sidany/.config/NuGet/NuGet.Config"

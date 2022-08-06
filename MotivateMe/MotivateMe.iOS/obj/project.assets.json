@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
+      "projectUniqueName": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
       "projectName": "MotivateMe.iOS",
-      "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
+      "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
       "packagesPath": "/Users/sidany/.nuget/packages/",
-      "outputPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/obj/",
+      "outputPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
-              "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
+            "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
+              "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
             }
           }
         }

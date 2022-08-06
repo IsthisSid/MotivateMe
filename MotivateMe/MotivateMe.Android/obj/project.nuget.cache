@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sl5ty2OA/6Dkxrts/Zj/pgMkiCdYSuuVRvMwU3QOOYEDm9WTO1EG7lYxExljrGrrcbxJCO+YTv2ApWNQW3/l/Q==",
+  "dgSpecHash": "tmfrKxN0kY85AJ1M686L0rra2Kq+CP7wIKkMdjZFCW8VvJb3tuPHCRwUcp1Fr7AQy8Rb6STZoq2M9YGE5jlExA==",
   "success": true,
-  "projectFilePath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
+  "projectFilePath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
   "expectedPackageFiles": [
     "/Users/sidany/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
