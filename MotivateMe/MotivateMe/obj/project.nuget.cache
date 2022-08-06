@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "r1Y8ynsymDmRM31JbCVLU+ZX43t3Cw16Paq/4CYBZr1oYBivxK1nyGXfaU3kgnQkVnjYN78We5b6GPb1ySzPTg==",
-=======
-  "dgSpecHash": "YSo/sy/jqqVVtIeXUBIMIhnX3nXX+dUOIFLvvdHrSQx16o2/ZuQWm+s5aMJGDRfXig2XmfyBh/q+fQDrsuS0Lw==",
->>>>>>> 57eaea59de8d458d48837924d973709e98e2274d
   "success": true,
   "projectFilePath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj",
   "expectedPackageFiles": [
@@ -14,5 +10,12 @@
     "/Users/sidany/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

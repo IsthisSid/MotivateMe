@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "QT38ONGkWZ4B23lj8HdrGztyXgem8gqo2JjLZc1hMH2LGcjLXq3KY33I8BKifBIsH4vctiBkn0shltQ4RfQDiw==",
-=======
-  "dgSpecHash": "tmfrKxN0kY85AJ1M686L0rra2Kq+CP7wIKkMdjZFCW8VvJb3tuPHCRwUcp1Fr7AQy8Rb6STZoq2M9YGE5jlExA==",
->>>>>>> 57eaea59de8d458d48837924d973709e98e2274d
   "success": true,
   "projectFilePath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
   "expectedPackageFiles": [
@@ -67,5 +63,12 @@
     "/Users/sidany/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
