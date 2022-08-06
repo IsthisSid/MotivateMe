@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sl5ty2OA/6Dkxrts/Zj/pgMkiCdYSuuVRvMwU3QOOYEDm9WTO1EG7lYxExljrGrrcbxJCO+YTv2ApWNQW3/l/Q==",
+  "dgSpecHash": "QT38ONGkWZ4B23lj8HdrGztyXgem8gqo2JjLZc1hMH2LGcjLXq3KY33I8BKifBIsH4vctiBkn0shltQ4RfQDiw==",
   "success": true,
-  "projectFilePath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
+  "projectFilePath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.Android/MotivateMe.Android.csproj",
   "expectedPackageFiles": [
     "/Users/sidany/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
@@ -59,7 +59,7 @@
     "/Users/sidany/.nuget/packages/xamarin.androidx.viewpager/1.0.0.8/xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.androidx.viewpager2/1.0.0.10/xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
-    "/Users/sidany/.nuget/packages/xamarin.forms/5.0.0.2478/xamarin.forms.5.0.0.2478.nupkg.sha512",
+    "/Users/sidany/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "/Users/sidany/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],

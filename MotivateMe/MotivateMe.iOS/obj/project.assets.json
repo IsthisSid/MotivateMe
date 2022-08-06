@@ -28,7 +28,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2478": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -156,7 +156,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.7.3",
-          "Xamarin.Forms": "5.0.0.2478"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/MotivateMe.dll": {}
@@ -193,7 +193,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2478": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -321,7 +321,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.7.3",
-          "Xamarin.Forms": "5.0.0.2478"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/MotivateMe.dll": {}
@@ -358,7 +358,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2478": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -486,7 +486,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.7.3",
-          "Xamarin.Forms": "5.0.0.2478"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/MotivateMe.dll": {}
@@ -523,7 +523,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2478": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -651,7 +651,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.7.3",
-          "Xamarin.Forms": "5.0.0.2478"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/MotivateMe.dll": {}
@@ -752,10 +752,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.2478": {
-      "sha512": "UeOnndxByPTpbExq0jPL5zKYqtHN9ldsgjQfUk9XF1pWSJUIakF3nJkq/tCgCVp5E1yp9Eecgqcthzy6llKiGg==",
+    "Xamarin.Forms/5.0.0.2515": {
+      "sha512": "n/Y/xk1idWRkxk7xItwvNwwda7CHpIk7JxD6tXkGXmTqiVGV1xRkepf5aKXFkQLM9KIQhXXYBxPsdyJysPpktw==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.2478",
+      "path": "xamarin.forms/5.0.0.2515",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -964,7 +964,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.2478.nupkg.sha512",
+        "xamarin.forms.5.0.0.2515.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -978,7 +978,7 @@
     "Xamarin.iOS,Version=v1.0": [
       "MotivateMe >= 1.0.0",
       "Xamarin.Essentials >= 1.7.3",
-      "Xamarin.Forms >= 5.0.0.2478"
+      "Xamarin.Forms >= 5.0.0.2515"
     ]
   },
   "packageFolders": {
@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
+      "projectUniqueName": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
       "projectName": "MotivateMe.iOS",
-      "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
+      "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
       "packagesPath": "/Users/sidany/.nuget/packages/",
-      "outputPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe.iOS/obj/",
+      "outputPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
-              "projectPath": "/Users/sidany/Projects/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
+            "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj": {
+              "projectPath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe/MotivateMe.csproj"
             }
           }
         }
@@ -1022,7 +1022,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.2478, )"
+            "version": "[5.0.0.2515, )"
           }
         }
       }

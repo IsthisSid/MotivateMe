@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{9BF20DCB-FE8A-4576-BE83-FAD4A2A2D33E}|Default">
   <MonoDevelop.Ide.ItemProperties.MotivateMe.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.61BAD6BE-9E75-4F7D-8D32-EDB3CCBE44BF" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MotivateMe.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="MotivateMe/MotivateMe/ExercisePage.xaml.cs">
     <Files>
       <File FileName="MotivateMe/MotivateMe.iOS/Main.cs" Line="17" Column="1" IsPinned="True" />
       <File FileName="MotivateMe/MotivateMe/MainPage.xaml" Line="13" Column="1" />
       <File FileName="MotivateMe/MotivateMe/MainPage.xaml.cs" Line="17" Column="1" />
-      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml.cs" Line="35" Column="10" />
+      <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml.cs" Line="1" Column="1" />
       <File FileName="MotivateMe/MotivateMe/ExercisePage.xaml" Line="3" Column="5" />
       <File FileName="MotivateMe/MotivateMe/RandomFacts.xaml" Line="1" Column="1" />
       <File FileName="MotivateMe/MotivateMe/RandomFacts.xaml.cs" Line="30" Column="1" />
@@ -35,9 +38,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MotivateMe.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
