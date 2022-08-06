@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "IA+aNGvRA+iB0S0JWAWVfBIZCYOkWvXFyupSIvcLqAPk/eccrotm83++xxRAG5Byjwvr0w9FJMWtRT+1eUHQ6w==",
+=======
+  "dgSpecHash": "CWgOvJTyyi8NQ+Ni1xcr17SK1hgHnaxd3o5u/OPp+uYDmOndAO2U5z8Y5YRLLRYyzQSbHQYwof88mn4c/40M5g==",
+>>>>>>> 57eaea59de8d458d48837924d973709e98e2274d
   "success": true,
   "projectFilePath": "/Users/sidany/Desktop/MotivateMe/MotivateMe/MotivateMe.iOS/MotivateMe.iOS.csproj",
   "expectedPackageFiles": [
